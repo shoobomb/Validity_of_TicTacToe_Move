@@ -3,7 +3,7 @@
 
 List Of Files In The Folder - 
 
-1. Question.txt : It contains the description of Question Number 2.
+1. Question.txt : It contains the description of Question.
 
 2. Q.in : This is the input file for Question. The code is written such that it fetches the number of test cases from the input file for processing.
 
